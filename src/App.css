@@ -1,0 +1,55 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  margin: auto;
+  max-width: 500px;
+  padding: 15px;
+  border: 2px solid grey;
+}
+
+.border--line {
+  width: 75%;
+  margin: 40px auto;
+}
+
+.information--div {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+input {
+  padding: 10px;
+  border-radius: 12px;
+  border: none;
+  margin: 5px;
+  margin-bottom: 50px;
+}
+
+button {
+  padding: 10px;
+  border-radius: 12px;
+  border: none;
+  margin: 5px;
+}
+
+table {
+  text-align: center;
+  margin: auto;
+  border: 1px solid grey;
+}
+
+td {
+  margin: 20px;
+  padding: 20px;
+  margin: auto;
+}
+
+th {
+  text-align: center;
+  margin: auto;
+}

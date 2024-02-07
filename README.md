@@ -1,3 +1,7 @@
+# OSRS Bestiary API (JS & Python)
+
+Just a quickly cobbled together website that allows some extremely limited pulling of data on monsters in the game OSRS.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
